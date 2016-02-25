@@ -117,9 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://trangtri360.com' target='_blank'><img src='http://trangtri360.com/images/promo/0/outdoor-sign-vietnam.png' width='708px'/>
-
-MUON COPY THI VAO DAY : http://trangtri360.com/</a>. Tại Thủ Đức - Bảo hành <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://trangtri360.com/lam-bang-quang-cao.html' target='_blank'><img src='http://trangtri360.com/images/promo/0/outdoor-sign-vietnam.png' width='500px'/>Thi công bảng hiệu quảng cáo chuyên nghiệp tại Thủ Đức. Bảo hành 24 tháng</a>. Bảo hành 24 tháng <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
