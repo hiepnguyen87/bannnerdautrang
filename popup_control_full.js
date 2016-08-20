@@ -116,7 +116,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://trangtri360.com/lam-bang-quang-cao.html' target='_blank'><img src='http://trangtri360.com/images/promo/0/outdoor-sign-vietnam.png' width='500px'/>Thi công bảng quảng cáo chuyên nghiệp .</a>. B.hành 24 tháng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://trangtri360.com/quang-cao/bang-quang-cao/' target='_blank'><img src='http://trangtri360.com/images/promo/0/outdoor-sign-vietnam.png' width='500px'/>Thi công bảng quảng cáo chuyên nghiệp .</a>. B.hành 24 tháng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
